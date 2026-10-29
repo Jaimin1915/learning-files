@@ -6,7 +6,7 @@ My notes, guides and project files, organized by skill.
 |---|---|
 | [`instagram/`](instagram/) | Instagram growth guides, Reel captions, covers |
 | [`youtube/`](youtube/) | YouTube upload kits, Shorts kits, thumbnails |
-| [`flick-ai/`](flick-ai/) | Flick.art AI filmmaking: scripts, scene stills, style references (one folder per film) |
+| [`flick-ai/`](flick-ai/) | Flick.art AI filmmaking: lesson notes, plus scripts and images (one folder per film) |
 
 ## 📸 Instagram
 - [Instagram Growth Playbook](instagram/guides/Instagram_Growth_Playbook.md): lessons from two growth videos, applied to the Gita channel
@@ -19,6 +19,16 @@ My notes, guides and project files, organized by skill.
 - [Gita 2.47 thumbnail](youtube/thumbnails/Gita_2_47_thumbnail.jpg)
 
 ## 🎬 Flick AI
+- **[Lesson notes](flick-ai/lessons/)** (9 lessons)
+  1. [Before You Generate](flick-ai/lessons/01-before-you-generate.md)
+  2. [Credits and Choosing a Model](flick-ai/lessons/02-credits-and-models.md)
+  3. [Project Setup, Story and the Agent](flick-ai/lessons/03-project-setup-story-agent.md)
+  4. [Keeping Characters Consistent](flick-ai/lessons/04-character-sheets.md)
+  5. [Generating Scene Images](flick-ai/lessons/05-scene-images.md)
+  6. [Turning Images into Video](flick-ai/lessons/06-image-to-video.md)
+  7. [Voice and Narration](flick-ai/lessons/07-voice-narration.md)
+  8. [The Video Editor](flick-ai/lessons/08-video-editor.md)
+  9. [My Workflow and Mistakes](flick-ai/lessons/09-workflow-and-mistakes.md)
 - **Gita 2.47: Do Your Work, Don't Worry About Results**
   - [Script](flick-ai/gita-2-47/script/Gita_2.47_Script_for_Flick.txt)
   - [Scene stills](flick-ai/gita-2-47/stills/)
