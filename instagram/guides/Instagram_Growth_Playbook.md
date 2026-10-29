@@ -110,14 +110,16 @@ Two benefits: you get proven ideas, AND Instagram learns your interest and keeps
 ## PART 3: Applied to YOUR channel
 
 ### 3.1 Your niche (one sentence, use it everywhere)
-> **"Bhagavad Gita wisdom for modern problems: one lesson, explained as an animated story."**
+> **"Timeless Hindu wisdom and philosophy for modern problems, told as animated stories."**
 
-**Topic band (stay inside it):** overthinking, worry about results, fear of failure, exam/job pressure, comparison, anger, laziness/discipline, heartbreak, self-doubt. All answered by **one Gita verse per Reel**.
+Channel name on YouTube and Instagram: **Ancient Teachings** (see [Channel Setup Kit](../../youtube/channel/Channel_Setup_Kit.md)).
 
-**Say NO to (even if viral):** general Indian mythology trivia, festival greetings, politics, random motivation without Gita, memes, religious debates.
+**Topic band (stay inside it):** overthinking, worry about results, fear of failure, exam/job pressure, comparison, anger, laziness/discipline, heartbreak, self-doubt. All answered by **one ancient story or verse per Reel**: Bhagavad Gita, Upanishads, Ramayana, Mahabharata, Chanakya Niti, stories of rishis and saints.
+
+**Say NO to (even if viral):** general Indian mythology trivia, festival greetings, politics, random motivation without an ancient teaching, memes, religious debates.
 
 ### 3.2 Your avatar (the ONE person you make every Reel for)
-> **"Rahul, 21. Student or first job in India. Lies awake at night overthinking his exams, career, money and what others think. Wants peace and a clear answer. Respects Krishna but has never read the Gita."**
+> **"Rahul, 21. Student or first job in India. Lies awake at night overthinking his exams, career, money and what others think. Wants peace and a clear answer. Respects his culture but has never read the Gita, the Upanishads or the epics."**
 
 Every idea must pass: *"Would Rahul stop scrolling for this at 2 AM?"*
 
@@ -127,15 +129,16 @@ Audience matching applies to language too. Mixing English and Hindi Reels on one
 - Want Hindi later? Make a **separate** Hindi account and re-voice the same films there.
 
 ### 3.4 Your profile (what a visitor sees in 2 seconds)
-- **Name field:** `Gita Lessons | Krishna's Wisdom` (the name field is searchable)
+- **Name field:** `Ancient Teachings | Hindu Wisdom` (the name field is searchable)
+- **Username:** try `@theancientteachings` (same as YouTube)
 - **Bio:**
   ```
-  🙏 One Bhagavad Gita lesson for your real-life problems
-  🎬 Animated stories · new lesson every week
+  🙏 Ancient Hindu wisdom for your real-life problems
+  🎬 Animated stories · new story every week
   👇 Full story on YouTube
   ```
 - **Link:** your YouTube video
-- **Profile picture:** Krishna's face from your film (clear, bright, recognizable at small size)
+- **Profile picture:** `profile_picture_800x800.png` from [youtube/channel](../../youtube/channel/) (same as YouTube)
 
 ### 3.5 The Four Horsemen → your Reel formula
 
@@ -232,7 +235,7 @@ Following Video B: rank by **views**, take the **top 3**, find what they share (
 ## One-page summary
 1. Instagram is a matchmaker. Help it match you.
 2. Every Reel is first tested on ~200 mostly-strangers. Win them, and it keeps pushing.
-3. **One niche** (Gita for modern problems) · **one avatar** (Rahul, 21, overthinking) · **one language**.
+3. **One niche** (ancient Hindu wisdom for modern problems) · **one avatar** (Rahul, 21, overthinking) · **one language**.
 4. Every Reel: real problem → non-obvious verse → simple words → one tiny action.
 5. Take a respectful but strong stance; ask a question in a pinned comment.
 6. Best of Nine: 3 formats × 3 lessons. Judge by views. Repeat the winner.

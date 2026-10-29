@@ -24,7 +24,7 @@ Ma Karma Phala Hetur Bhur Ma Te Sangostva Akarmani.
 02:03 Your life today
 02:19 Krishna's blessing
 
-One lesson from the Gita every week. Subscribe so you don't miss the next one.
+A new ancient teaching every week. Subscribe to Ancient Teachings so you don't miss the next one.
 Jai Shri Krishna 🙏
 
 #BhagavadGita #Krishna #Overthinking

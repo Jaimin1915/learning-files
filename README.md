@@ -14,6 +14,7 @@ My notes, guides and project files, organized by skill.
 - [Reel 1 cover](instagram/covers/Instagram_Reel1_cover.jpg)
 
 ## ▶️ YouTube
+- [Channel Setup Kit: Ancient Teachings](youtube/channel/Channel_Setup_Kit.md): name, handle, description, keywords, banner, profile picture, layout
 - [Full video upload kit: Gita 2.47](youtube/guides/YouTube_upload_kit.md): titles, description with chapters, tags, end screen
 - [Shorts upload kit](youtube/guides/Shorts_upload_kit.md): titles and descriptions for the 3 Shorts
 - [Gita 2.47 thumbnail](youtube/thumbnails/Gita_2_47_thumbnail.jpg)
