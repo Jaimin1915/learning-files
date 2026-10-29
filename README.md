@@ -6,7 +6,6 @@ My notes, guides and project files, organized by skill.
 |---|---|
 | [`instagram/`](instagram/) | Instagram growth guides, Reel captions, covers |
 | [`youtube/`](youtube/) | YouTube upload kits, Shorts kits, thumbnails |
-| [`stickman/`](stickman/) | Stickman animation videos: scripts, style previews (one folder per video) |
 | [`flick-ai/`](flick-ai/) | Flick.art AI filmmaking: lesson notes, plus scripts and images (one folder per film) |
 
 ## 📸 Instagram
@@ -42,6 +41,3 @@ Channel: [Ancient Teachings (@TheAncientTeachings)](https://www.youtube.com/@The
   - [Style reference frames](flick-ai/gita-2-47/style-references/) (used for "Create My Style" in Flick)
 
 Videos are stored separately (GitHub blocks files over 100 MB).
-
-## ✏️ Stickman
-- **Gita 2.14: This Too Shall Pass** (vertical Short): [script and scene plan](stickman/gita-2-14/script.md) · [style preview](stickman/gita-2-14/style_preview.png)
