@@ -13,6 +13,7 @@ My notes, guides and project files, organized by skill.
 - [Reel 1 kit: "Can't sleep at 2 AM?"](instagram/guides/Instagram_Reel1_kit.md): caption and posting checklist
 - [Reel 1 cover](instagram/covers/Instagram_Reel1_cover.jpg)
 - [Reel 2 kit: "The verse that ends overthinking"](instagram/guides/Instagram_Reel2_kit.md) · [cover](instagram/covers/Instagram_Reel2_cover.jpg)
+- [Reel 3 kit: "The greatest warrior wanted to quit"](instagram/guides/Instagram_Reel3_kit.md) · [cover](instagram/covers/Instagram_Reel3_cover.jpg)
 
 ## ▶️ YouTube
 Channel: [Ancient Teachings (@TheAncientTeachings)](https://www.youtube.com/@TheAncientTeachings)
