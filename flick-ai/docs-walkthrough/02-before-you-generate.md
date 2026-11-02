@@ -74,4 +74,4 @@ The *Happy Souls Alive* team tested the **room first, with no character in it**.
 4. In Flick: Blank canvas → paste the bible into **Project memory**.
 5. Generate **one empty-room image** of the main location (Z-Image Turbo or GPT Image 2.5 low), and check it against your 3 checks.
 
-**Next page:** Create Your First Project.
+**Next page:** [03 Create Your First Project](03-create-your-first-project.md)
