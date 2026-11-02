@@ -107,4 +107,4 @@ Top bar **Flickpedia → Classic Film Scenes** → search a film → pick a shot
 5. Flickpedia → **Classic Film Scenes** → **Add to Canvas** one shot you like → ask the chat: *"Summarize the composition of this shot: shot size, angle, lens, light."*
 6. Open the image menu → **Image ›** and just look at the 8 tools (don't run them yet).
 
-**Next page:** Tell a small story in three shots.
+**Next page:** [04 Tell a small story in three shots](04-three-shot-story.md)
