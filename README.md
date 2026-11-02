@@ -27,7 +27,8 @@ Channel: [Ancient Teachings (@TheAncientTeachings)](https://www.youtube.com/@The
 - [Gita 2.47 thumbnail](youtube/thumbnails/Gita_2_47_thumbnail.jpg)
 
 ## 🎬 Flick AI
-- **[Docs Walkthrough](flick-ai/docs-walkthrough/)**: every Flick docs page explained with annotated screenshots · [01 Welcome](flick-ai/docs-walkthrough/01-welcome.md)
+- **[AI Co-pilot Toolkit](flick-ai/ai-copilot/)**: what to give AI, what only you do, 7 master prompts
+- **[Docs Walkthrough](flick-ai/docs-walkthrough/)**: every Flick docs page explained with annotated screenshots · [01 Welcome](flick-ai/docs-walkthrough/01-welcome.md) · [02 Before you generate](flick-ai/docs-walkthrough/02-before-you-generate.md)
 - **[Flick Mastery Course](flick-ai/course/)**: images, video, camera, 3D, action (9 levels) · [Prompt Library](flick-ai/course/prompt-library.md)
 - **[Lesson notes](flick-ai/lessons/)** (9 lessons)
   1. [Before You Generate](flick-ai/lessons/01-before-you-generate.md)

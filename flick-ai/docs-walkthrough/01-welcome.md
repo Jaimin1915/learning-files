@@ -128,4 +128,4 @@ Results change every time. After each result, check: is the subject clear, is th
 3. **Flick TV**: open *Happy Souls Alive* or *Xenogenesis* → **Get Workflow** → explore how the canvas is organized (sections, character sheets, takes).
 4. In any project: find each of the 22 items in the canvas screenshot, and set the chat to **Manual**.
 
-**Next page:** [Before you generate](https://flick.art/docs/before-you-generate). We studied it already, so I'll do a short recap and only add what's new.
+**Next page:** [02 Before you generate](02-before-you-generate.md)
