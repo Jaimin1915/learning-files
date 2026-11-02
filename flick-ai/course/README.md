@@ -41,7 +41,7 @@ Prices as listed on Flick's compare page in Oct 2026. Check [flick.art/pricing](
 | # | Lesson | You'll be able to |
 |---|---|---|
 | 1.1 | [Prompt anatomy](L1-01-image-prompt-anatomy.md) | Write a prompt that gives the image you pictured |
-| 1.2 | Shot sizes, angles and lenses | Name and get any framing: ECU → EWS, low/high/OTS/POV, 24mm vs 85mm |
+| 1.2 | [Shot sizes, angles and lenses](L1-02-shot-sizes-angles-lenses.md) | Name and get any framing: ECU → EWS, low/high/OTS/POV, 24mm vs 85mm |
 | 1.3 | Lighting and focus | Control light source, direction, shadows, depth of field |
 | 1.4 | Styles | Pick, create and save a style; photoreal vs 2D |
 | 1.5 | Characters | Turnaround sheets, expression sheets, Character Reference |
