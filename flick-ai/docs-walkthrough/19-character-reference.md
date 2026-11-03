@@ -23,6 +23,24 @@ The same driver standing at a rainy train platform at night, wide shot.
 Keep his face and jacket exactly as in the reference.
 ```
 
+### Character vs Reference Scene: why two boxes?
+They tell the AI **two different jobs**:
+
+| Box | Answers | Put here | The AI copies |
+|---|---|---|---|
+| **Character** | **WHO** is in the shot | Character sheet, face close-up | Face, hair, body, clothes |
+| **Reference Scene** | **WHERE** it happens | A picture of the place (a room, a street, a rooftop) | Layout, background, light, colors of the place |
+
+**Why not one box?** If you mix them, the AI doesn't know what to copy from which image. It might copy the **room** from your character sheet (a plain grey background) or a **person** from your place photo.
+
+**Example:**
+- Character = **Aarav Sheet**
+- Reference Scene = **S1 Wide** (the rooftop)
+- Prompt = *"The boy sits on the wall eating a sweet, medium shot."*
+→ The same Aarav, on the same rooftop.
+
+**No place picture?** Leave Reference Scene empty and describe the place in the prompt.
+
 ## Need another angle or outfit?
 Ask the chat for a **new sheet from the old sheet** (e.g. full body, close-up). Keep both in the character's section.
 ![Full body + close-up](images/19-fullbody-closeup.jpg)
