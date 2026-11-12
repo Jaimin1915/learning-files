@@ -1,6 +1,6 @@
 # Jaimin · Developer & AI Filmmaker
 
-I'm a software developer who makes story-driven AI films in **[Flick](https://flick.art)**, publishes them on YouTube and Instagram, and writes simple, screenshot-based guides so beginners can do the same.
+I'm a software developer who makes story-driven AI films in **[Flick](https://flick.art)**, publishes them on YouTube and Instagram, and documents what I learn in step-by-step notes.
 
 **▶️ YouTube:** [@TheAncientTeachings](https://www.youtube.com/@TheAncientTeachings) · **📸 Instagram:** [@ancient_hinduism_wisdom](https://www.instagram.com/ancient_hinduism_wisdom/) · **📍** India, open to remote
 
@@ -23,8 +23,8 @@ I'm a software developer who makes story-driven AI films in **[Flick](https://fl
 
 A brand-new channel with 3 subscribers. I publish every week and track what works.
 
-## 📚 Teaching: Flick, explained simply
-I'm rewriting every page of Flick's documentation as a short guide: the rules, one example, a practice task, and screenshots with numbered labels showing exactly where each button is.
+## 📚 My Flick learning notes
+As I learn Flick, I write each docs page up as a short note for myself: the rules, one example, a practice task, and screenshots with numbered labels showing where each button is.
 
 **→ [Docs Walkthrough (28 guides)](flick-ai/docs-walkthrough/)**
 
@@ -39,7 +39,7 @@ Good places to start:
 |---|---|---|
 | Can't sleep at 2 AM? · 38s | The verse that ends overthinking · 36s | The greatest warrior wanted to quit · 45s |
 
-Each one has a caption, hashtags and a posting checklist. Strategy: [Instagram Growth Playbook](instagram/guides/Instagram_Growth_Playbook.md).
+I started posting Reels on 29 Oct 2026 and passed **10,000+ views in 15 days** (as of 12 Nov 2026). Each one has a caption, hashtags and a posting checklist. Strategy: [Instagram Growth Playbook](instagram/guides/Instagram_Growth_Playbook.md).
 
 ## 🛠 How I work
 1. **Brief:** one-line goal, what changes, three checks before spending credits
