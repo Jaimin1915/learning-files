@@ -6,14 +6,6 @@ I'm a software developer who makes story-driven AI films in **[Flick](https://fl
 
 ---
 
-## 🎬 Featured film
-[![Stop Overthinking: Krishna's 5,000-Year-Old Answer](youtube/thumbnails/Gita_2_47_thumbnail.jpg)](https://youtu.be/VhWq9JuDmlU)
-
-**[Stop Overthinking: Krishna's 5,000-Year-Old Answer (Bhagavad Gita 2.47)](https://youtu.be/VhWq9JuDmlU)** · 2:44
-- Script, 12 scenes, character sheets, stills, video, AI narration, captions, sound design and thumbnail, all made by me in Flick
-- About 190 Flick credits: images first, video only where a scene needed motion
-- Cut into 3 vertical Reels for Instagram, each with its own hook and cover
-
 ## 📈 Channel so far (first 2 weeks)
 | Video | Length | Views |
 |---|---|---|
