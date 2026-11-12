@@ -1,48 +1,65 @@
-# Learning Files
+# Jaimin · Developer & AI Filmmaker
 
-My notes, guides and project files, organized by skill.
+I'm a software developer who makes story-driven AI films in **[Flick](https://flick.art)**, publishes them on YouTube and Instagram, and writes simple, screenshot-based guides so beginners can do the same.
 
-| Folder | What goes here |
+**▶️ YouTube:** [@TheAncientTeachings](https://www.youtube.com/@TheAncientTeachings) · **📸 Instagram:** [@ancient_hinduism_wisdom](https://www.instagram.com/ancient_hinduism_wisdom/) · **📍** India, open to remote
+
+---
+
+## 🎬 Featured film
+[![Stop Overthinking: Krishna's 5,000-Year-Old Answer](youtube/thumbnails/Gita_2_47_thumbnail.jpg)](https://youtu.be/VhWq9JuDmlU)
+
+**[Stop Overthinking: Krishna's 5,000-Year-Old Answer (Bhagavad Gita 2.47)](https://youtu.be/VhWq9JuDmlU)** · 2:44
+- Script, 12 scenes, character sheets, stills, video, AI narration, captions, sound design and thumbnail, all made by me in Flick
+- About 190 Flick credits: images first, video only where a scene needed motion
+- Cut into 3 vertical Reels for Instagram, each with its own hook and cover
+
+## 📈 Channel so far (first 2 weeks)
+| Video | Length | Views |
+|---|---|---|
+| [Stop Overthinking (Bhagavad Gita 2.47)](https://youtu.be/VhWq9JuDmlU) | 2:44 | 30 |
+| [Hanuman Forgot His Own Power… (Ramayana)](https://www.youtube.com/@TheAncientTeachings/videos) | 2:35 | 11 |
+| [How Mumbai Stole Its Land From the Sea](https://www.youtube.com/@TheAncientTeachings/videos) | 10:48 | 15 |
+
+A brand-new channel with 3 subscribers. I publish every week and track what works.
+
+## 📚 Teaching: Flick, explained simply
+I'm rewriting every page of Flick's documentation as a short guide: the rules, one example, a practice task, and screenshots with numbered labels showing exactly where each button is.
+
+**→ [Docs Walkthrough (28 guides)](flick-ai/docs-walkthrough/)**
+
+Good places to start:
+- [Generate Image](flick-ai/docs-walkthrough/14-generate-image.md) · [Image Prompts Guide](flick-ai/docs-walkthrough/16-image-prompts-guide.md)
+- [Character Reference](flick-ai/docs-walkthrough/19-character-reference.md) · [Character in 3 shots](flick-ai/docs-walkthrough/20-character-three-shots.md)
+- [Generate Video](flick-ai/docs-walkthrough/21-generate-video.md) · [Direct one clear action](flick-ai/docs-walkthrough/23-direct-one-clear-action.md)
+- [Seedance Action Guide (fights)](flick-ai/docs-walkthrough/27-seedance-action.md)
+
+## 📱 Short-form
+| [![Reel 1](instagram/covers/Instagram_Reel1_cover.jpg)](instagram/guides/Instagram_Reel1_kit.md) | [![Reel 2](instagram/covers/Instagram_Reel2_cover.jpg)](instagram/guides/Instagram_Reel2_kit.md) | [![Reel 3](instagram/covers/Instagram_Reel3_cover.jpg)](instagram/guides/Instagram_Reel3_kit.md) |
+|---|---|---|
+| Can't sleep at 2 AM? · 38s | The verse that ends overthinking · 36s | The greatest warrior wanted to quit · 45s |
+
+Each one has a caption, hashtags and a posting checklist. Strategy: [Instagram Growth Playbook](instagram/guides/Instagram_Growth_Playbook.md).
+
+## 🛠 How I work
+1. **Brief:** one-line goal, what changes, three checks before spending credits
+2. **Stills:** wide shot first, character sheets, compare images side by side
+3. **Motion:** one action and one camera move per clip, check the last second
+4. **Edit & publish:** cut to the voice, captions, covers, then a version per platform
+
+## Skills
+**Content:** Flick (images, video, voice, editor) · scripting & storyboards · prompting · video editing · captions · thumbnails · YouTube SEO · Instagram Reels
+**Engineering:** React · Node / MERN · Python / FastAPI · Supabase · automation · Git
+
+---
+
+## What's in this repo
+| Folder | Contents |
 |---|---|
-| [`instagram/`](instagram/) | Instagram growth guides, Reel captions, covers |
-| [`youtube/`](youtube/) | YouTube upload kits, Shorts kits, thumbnails |
-| [`flick-ai/`](flick-ai/) | Flick.art AI filmmaking: lesson notes, plus scripts and images (one folder per film) |
-
-## 📸 Instagram
-- [Instagram Growth Playbook](instagram/guides/Instagram_Growth_Playbook.md): lessons from two growth videos, applied to the Gita channel
-- [Reel 1 kit: "Can't sleep at 2 AM?"](instagram/guides/Instagram_Reel1_kit.md): caption and posting checklist
-- [Reel 1 cover](instagram/covers/Instagram_Reel1_cover.jpg)
-- [Reel 2 kit: "The verse that ends overthinking"](instagram/guides/Instagram_Reel2_kit.md) · [cover](instagram/covers/Instagram_Reel2_cover.jpg)
-- [Reel 3 kit: "The greatest warrior wanted to quit"](instagram/guides/Instagram_Reel3_kit.md) · [cover](instagram/covers/Instagram_Reel3_cover.jpg)
-
-## ▶️ YouTube
-Channel: [Ancient Teachings (@TheAncientTeachings)](https://www.youtube.com/@TheAncientTeachings)
-
-**Published:**
-- 29 Oct 2026: [Stop Overthinking: Krishna's 5,000-Year-Old Answer (Bhagavad Gita 2.47)](https://youtu.be/VhWq9JuDmlU)
-
-- [Channel Setup Kit: Ancient Teachings](youtube/channel/Channel_Setup_Kit.md): name, handle, description, keywords, banner, profile picture, layout
-- [Full video upload kit: Gita 2.47](youtube/guides/YouTube_upload_kit.md): titles, description with chapters, tags, end screen
-- [Shorts upload kit](youtube/guides/Shorts_upload_kit.md): titles and descriptions for the 3 Shorts
-- [Gita 2.47 thumbnail](youtube/thumbnails/Gita_2_47_thumbnail.jpg)
-
-## 🎬 Flick AI
-- **[AI Co-pilot Toolkit](flick-ai/ai-copilot/)**: what to give AI, what only you do, 7 master prompts
-- **[Docs Walkthrough](flick-ai/docs-walkthrough/)**: every Flick docs page explained with annotated screenshots · [01 Welcome](flick-ai/docs-walkthrough/01-welcome.md) · [02 Before you generate](flick-ai/docs-walkthrough/02-before-you-generate.md) · [03 Create Your First Project](flick-ai/docs-walkthrough/03-create-your-first-project.md) · [04 Three-shot story](flick-ai/docs-walkthrough/04-three-shot-story.md) · [05 Navigation](flick-ai/docs-walkthrough/05-navigation.md) · [06 Settings + Agent](flick-ai/docs-walkthrough/06-canvas-settings-and-agent.md) · [07 What Flick can do](flick-ai/docs-walkthrough/07-what-flick-can-do.md) · [08 Choosing a model](flick-ai/docs-walkthrough/08-choosing-a-model.md) · [09 Story](flick-ai/docs-walkthrough/09-story-basics.md) · [10 Share + Upload](flick-ai/docs-walkthrough/10-share-and-upload.md) · [11 Workspaces + Sections](flick-ai/docs-walkthrough/11-workspaces-sections-folders.md) · [12 Find + Text + Colors](flick-ai/docs-walkthrough/12-find-text-colors.md) · [13 Extract Frame](flick-ai/docs-walkthrough/13-extract-frame.md) · [14 Generate Image](flick-ai/docs-walkthrough/14-generate-image.md) · [15 Edit Image](flick-ai/docs-walkthrough/15-edit-image.md) · [16 Image Prompts Guide](flick-ai/docs-walkthrough/16-image-prompts-guide.md) · [17 Visual Styles](flick-ai/docs-walkthrough/17-visual-styles.md) · [18 Camera Control](flick-ai/docs-walkthrough/18-camera-control.md) · [19 Character Reference](flick-ai/docs-walkthrough/19-character-reference.md) · [20 Character in 3 shots](flick-ai/docs-walkthrough/20-character-three-shots.md) · [21 Generate Video](flick-ai/docs-walkthrough/21-generate-video.md) · [22 Extend + Trim](flick-ai/docs-walkthrough/22-extend-and-trim.md) · [23 One clear action](flick-ai/docs-walkthrough/23-direct-one-clear-action.md) · [24 Omni Reference](flick-ai/docs-walkthrough/24-omni-reference.md) · [25 Seedance Performance](flick-ai/docs-walkthrough/25-seedance-performance.md) · [26 Blender to AI](flick-ai/docs-walkthrough/26-blender-to-ai-clip.md) · [27 Seedance Action](flick-ai/docs-walkthrough/27-seedance-action.md) · [28 Text to Voice](flick-ai/docs-walkthrough/28-text-to-voice.md)
-- **[Flick Mastery Course](flick-ai/course/)**: images, video, camera, 3D, action (9 levels) · [Prompt Library](flick-ai/course/prompt-library.md)
-- **[Lesson notes](flick-ai/lessons/)** (9 lessons)
-  1. [Before You Generate](flick-ai/lessons/01-before-you-generate.md)
-  2. [Credits and Choosing a Model](flick-ai/lessons/02-credits-and-models.md)
-  3. [Project Setup, Story and the Agent](flick-ai/lessons/03-project-setup-story-agent.md)
-  4. [Keeping Characters Consistent](flick-ai/lessons/04-character-sheets.md)
-  5. [Generating Scene Images](flick-ai/lessons/05-scene-images.md)
-  6. [Turning Images into Video](flick-ai/lessons/06-image-to-video.md)
-  7. [Voice and Narration](flick-ai/lessons/07-voice-narration.md)
-  8. [The Video Editor](flick-ai/lessons/08-video-editor.md)
-  9. [My Workflow and Mistakes](flick-ai/lessons/09-workflow-and-mistakes.md)
-- **Gita 2.47: Do Your Work, Don't Worry About Results**
-  - [Script](flick-ai/gita-2-47/script/Gita_2.47_Script_for_Flick.txt)
-  - [Scene stills](flick-ai/gita-2-47/stills/)
-  - [Style reference frames](flick-ai/gita-2-47/style-references/) (used for "Create My Style" in Flick)
-
-Videos are stored separately (GitHub blocks files over 100 MB).
+| [`flick-ai/docs-walkthrough/`](flick-ai/docs-walkthrough/) | 28 simple guides to Flick, with annotated screenshots |
+| [`flick-ai/course/`](flick-ai/course/) | My 9-level learning plan and [prompt library](flick-ai/course/prompt-library.md) |
+| [`flick-ai/ai-copilot/`](flick-ai/ai-copilot/) | How I split work between AI assistants and my own judgment |
+| [`flick-ai/lessons/`](flick-ai/lessons/) | Notes from making the Gita film, including [my mistakes](flick-ai/lessons/09-workflow-and-mistakes.md) |
+| [`flick-ai/gita-2-47/`](flick-ai/gita-2-47/) · [`flick-ai/practice/`](flick-ai/practice/) | Scripts and stills for my films |
+| [`youtube/`](youtube/) | Channel setup, upload kits, thumbnails |
+| [`instagram/`](instagram/) | Growth playbook, Reel kits, covers |
